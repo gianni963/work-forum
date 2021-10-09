@@ -58,7 +58,7 @@ export default function Home() {
             href="https://vercel.com/import?filter=next.js&utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
             className="p-6 mt-6 text-left border w-96 rounded-xl hover:text-blue-600 focus:text-blue-600"
           >
-            <h3 className="text-2xl font-bold">Deploy &rarr;</h3>
+            <h3 className="text-2xl font-bold text-purple-700">Deploy &rarr;</h3>
             <p className="mt-4 text-xl">
               Instantly deploy your Next.js site to a public URL with Vercel.
             </p>
